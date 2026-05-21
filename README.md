@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔗 Portfolio: https://Yoshithapranavi.github.io/Yoshithapranavi
+🔗 Portfolio: https://yoshithapranavi.github.io/Yoshithapranavi/
 
 
 ## Portfolio
 
 I added a simple static portfolio site to this repository and a GitHub Actions workflow to publish it to GitHub Pages.
 
-- **Live URL (after deployment):** https://Yoshithapranavi.github.io/Yoshithapranavi
+- **Live URL (after deployment):** https://yoshithapranavi.github.io/Yoshithapranavi/
 
-To publish the site automatically, GitHub Actions will build and push the repository root to the `gh-pages` branch when you push to `main`.
+To publish the site automatically, GitHub Actions deploys the repository root to GitHub Pages when you push to `main`.
 
-If you'd rather enable Pages from the repository settings instead, go to the repository Settings → Pages and choose the `gh-pages` branch or the `main` branch (root) as the source.
-
+In the repository Settings → Pages, make sure the source is set to **GitHub Actions** so the deployment workflow can publish the site.
