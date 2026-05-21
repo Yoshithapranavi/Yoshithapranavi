@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔗 Portfolio: https://Yoshithapranavi.github.io/Yoshithapranavi
+
+
 ## Portfolio
 
 I added a simple static portfolio site to this repository and a GitHub Actions workflow to publish it to GitHub Pages.
